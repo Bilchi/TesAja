@@ -1,0 +1,17 @@
+{
+  "StoreName": "Kax Store",
+  "token": "MTE5ODQ2MzI2NjcyOTQ5MjUzMA.GUmtlL.ibKhz6YJbL6JnHN8odEauvLZGnLV9ol4qXFKG0",
+  "mongoURI": "mongodb+srv://Woilah:UNtO3I9Gk26vEE56@store.khwuq.mongodb.net/?retryWrites=true&w=majority",
+  "prefix": ".",
+  "adminIds": "845527050856169492",
+  "buylogChannelId": "1198458750323937290",
+  "stockChannelId": "1198458305585102989",
+  "yourBotId": "1198463266729492530",
+  "desiredChannelId": "1198465305215770644",
+  "specificUserId": "1198465388514652280",
+  "imageURL": "",
+  "wlEmoji": "<:emoji_7:1188708052132700170>",
+  "emoji1": "<a:rainbowarrow:1197236637839671407>",
+  "emoji2": "<:emoji_9:1188726175380557824>",
+  "emoji3": "<a:world:1188716780382855218>"
+}
